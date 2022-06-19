@@ -1,0 +1,33 @@
+
+
+Part1 of assignment
+['analyt', 'data', 'data min', 'deep learn', 'machine learn', 'mine', 'research']
+[[ 21.  64.   0.   1.   0.   2.  18.]
+ [  9. 349.   0.   4.   0. 167.  18.]
+ [  9. 349.   0.   4.   0. 167.  18.]
+ [  5.   6.   1.   0.   0.  15.  25.]
+ [  0.   0.   0.   0.   0.   0.  43.]
+ [  0.   0.   0.   0.   0.   0.  43.]]
+(6, 7)
+[1.33647224 1.33647224 2.25276297 1.55961579 2.94591015 1.33647224
+ 1.        ]
+
+
+Part2 of assignment Cosine measure
+[[1.         0.86584583 0.86584583 0.44382159 0.19596062 0.19596062]
+ [0.86584583 1.         1.         0.50021957 0.03477798 0.03477798]
+ [0.86584583 1.         1.         0.50021957 0.03477798 0.03477798]
+ [0.44382159 0.50021957 0.50021957 1.         0.74013876 0.74013876]
+ [0.19596062 0.03477798 0.03477798 0.74013876 1.         1.        ]
+ [0.19596062 0.03477798 0.03477798 0.74013876 1.         1.        ]]
+
+
+Part3 of assignment Analysis and Discussion of Problems
+
+1)Cosine similarity is a metric used to determine how similar two entities are irrespective of their size.
+It measures the cosine of the angle between two vectors projected in a multi-dimensional space. If 'a' and 'b' are two vectors, cosine equation gives the angle between the two.
+
+
+2)The result from computing the similarity of Item A to Item B is the same as computing the similarity of Item B to Item A.
+
+3)Which 2 docs are most similar in terms of 7 given topics?  ans Data_mining.txt,Data_mining#Data_mining.txt are similar

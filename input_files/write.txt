@@ -1,0 +1,553 @@
+
+
+Line wrap!DOCTYPE html
+
+html lang="en"
+  head
+    meta charset="utf-8"
+    meta http-equiv="X-UA-Compatible" content="IE=edge"
+    meta name="viewport" content="width=device-width, initial-scale=1"
+    titleDr. Sunnie Sun Chung's Big Data Analytics and Cyber Security Lab, Cleveland State Univeristy /title
+    !-- Bootstrap --
+    link href="css/bootstrap-4.0.0test.css" rel="stylesheet"
+    style type="text/css"
+    .top {position: fixed;
+	top: 0px;
+	z-index:9999;
+}
+	#left1,#right1{position:absolute;top:300px;width:20%;height:100%;}  
+#left1{left:0;}
+#right1{right: 0;}
+
+
+ 
+		#mydiv {
+   background-image: url("./images/BigData.jpg");
+   background-repeat:no-repeat;
+   background-size:100%;
+}
+	header.gif{background-image:url("gif/background2.gif");background-size:100%;}
+	
+    /style
+  /head
+  body 
+    nav class="navbar navbar-expand-lg top header" style="width:100%; background-color:powderblue;" 
+     
+		  div class="row" align="left" 
+			  div class="col-xl-12" style="padding-left:0px; " 
+				  diva style="color:#F97400; font-size:24px"strongBig Data Analytics, AI and Cyber Security Lab/strong/a/div
+					diva href="FacultyBio_SunnieChung.pdf"bDr. Sunnie Sun Chung/b/a/div
+diva href="https://engineering.csuohio.edu/sites/default/files/200486_Washkewicz_Magazine_2020_2021.pdf"bSee the College Magazine (in Page 3) Featuring Dr. Sunnie Sun Chung /b/a/div
+					divabElectrical Engineering and Computer Science (EECS), Cleveland State Univerity/b/a/div
+					divabEmail: s.chung@csuohio.edu/b/a/div
+		  		
+			  /div
+  		 /div 
+	 
+	
+	 
+		
+      button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"  span class="navbar-toggler-icon"/span /button
+	  div align="right"
+      div class="collapse navbar-collapse" id="navbarSupportedContent"
+        ul class="navbar-nav right" style="position:fixed; right:0px" 
+          li class="nav-item active" a class="nav-link" href="#Research" style="color:#F97400" strongResearch/strongspan class="sr-only"(current)/span/a
+		   		
+		/li
+		  li class="nav-item active" a class="nav-link" href="#Publication" style="color:#0005FF"strongPublications/strongspan class="sr-only"(current)/span/a /li
+          
+          li class="nav-item active "a class="nav-link" href="#Teaching" style="color:#017023"strongTeaching/strongspan class="sr-only"(current)/span/a/li
+			li class="nav-item active" a class="nav-link" href="#People" style="color:#C600FC; " strongPeople/strongspan class="sr-only"(current)/span/a /li
+          
+        /ul
+     
+      /div
+	  /div
+  /nav
+	
+	  
+    header class="gif" style="padding:300px"
+		
+      
+		  
+        			
+          div class="container"
+			  div id="left1" img style="width: 200px; height: 200px;" src="gif/test2.gif" /div
+			  div id="right1" align="right" img style="width: 200px; height: 200px;" src="gif/test3.gif" /div
+			  div  class="col-xl-12" align="center"
+						pnbsp;/p						  
+				   a class="text-center" style="color:#1D2A92; font-size:38px"bBig Data Analytics, AI and Cyber Security Lab/b/a
+                              pnbsp;/p
+a class="text-center" style="color:#5D2A92; font-size:20px"b
+
+Big Data is changing every aspect of modern life.br
+Research in Big Data Lab focus on How to Shape the Changes by Big Data Better br /b/a
+pnbsp;/p
+              p class="text-center"a class="btn btn-primary btn-lg" href="#Research" role="button"Learn more/a /p
+			  
+            /div
+			
+      /div
+        
+     a name="Research"/a
+  /header
+	   
+  section style="background-color:cadetblue; margin-top:auto; margin-bottom:auto; padding-bottom:40px" 
+      div class="container" style="background-color:cadetblue" 
+        div class="row"
+          div class="col-lg-12 mb-4 mt-2 text-center"
+            h2RESEARCH AREAS/h2
+          /div
+        /div
+		  
+    /div
+      div class="container "
+        div class="row"
+          div class="col-lg-4 col-md-6 col-sm-12 text-center" style="background-color: beige"
+            img class="rounded-circle" alt="140x140" style="width: 140px; height: 140px;" src="images/nlp1.jpg" data-holder-rendered="true"
+            pa style="font-size:28px; color:#031FC4" href="poster/ResearchPosters_NLPTeam.pdf"strongText Analysis with Natural Language Processing /strong/a/p
+            p class="text-center" style="color:#0064AC" a href="poster/ResearchPoster_EECS_SunnieChung_MikeDArcy_UtkarshPatel.pdf" b•	Big Data Analytics in Text Mining with Natural Language Processing /b/a/p
+			p class="text-center" style="color:#0064AC"a href="http://eecs.csuohio.edu/~sschung/cis612/MedicalQA_Asanka.pdf"b•	Context Aware Medical Question Answering System with Natural Language Processing /b/p
+			
+          /div
+          div class="col-lg-4 col-md-6 col-sm-12 text-center" style="background-color:#E4AAF7"
+            img class="rounded-circle" alt="140x140" style="width: 140px; height: 140px;" src="images/ml.jpg" data-holder-rendered="true"
+            pa style="font-size:28px; color:#031FC4" href ="poster/ResearchPoster_EECS_SunnieChung_MikeDArcy_UtkarshPatel.pdf"strongMachine Learning/Deep Learning/strong/a/p
+            p class="text-center" style="color:#0064AC"a href="poster/JJLiu_Poster_FullDescription0914.pdf"b•	Machine Learning Based Intrusion Detection in Wi-Fi Network Systems/b/a/p
+	    p class="text-center" style="color:#0064AC"///a href="poster/JJLiu_Poster_FullDescription0914.pdf"b•	Deep Learning for Image Question Answering System/b/a/p
+          /div
+          div class="col-lg-4 col-md-6 col-sm-12 text-center" style="background-color:#F7BE86"
+            img class="rounded-circle" alt="140x140" style="width: 140px; height: 140px;" src="images/cybersecurity.jpg" data-holder-rendered="true"
+            pa style="font-size:28px; color:#031FC4"bCyber Security/b/a/p
+            p class="text-center" style="color:#0064AC"a href="poster/Poster_AntiTamperCloud_03.pdf"b•	Cyber Security and Privacy in Cloud Based Big Data Data Analytic Systems/b /p
+			p class="text-center" style="color:#0064AC"b•	Privacy Models of Cloud Based IoT/b /p
+			/div
+          div class="col-lg-4 col-md-6 col-sm-12 text-center" style="background-color: #EFA590"
+            img class="rounded-circle" alt="140x140" style="width: 140px; height: 140px;" src="images/realtime.jpg" data-holder-rendered="true"
+            pa style="font-size:28px; color:#031FC4" href="poster/ResearchPoster_EECS_SunnieChung_DanielleAring.pdf" strongReal time /strong/a/p
+            p class="text-center" style="color:#0064AC" a href="poster/ResearchPoster_EECS_SunnieChung_DanielleAring.pdf"b•	Real time Sentiment/Opinion Analysis of Social Network/b/p
+	p class="text-center" style="color:#0064AC" a href="poster/PresidentialElectionPrediction_SocialMediaOpinionAnalysis.pdf"b•	Sentiment/Opinion Analysis of Social Network for Prediction of 2020 Presidential Election /b/p
+          
+/div
+          div class="col-lg-4 col-md-6 col-sm-12 text-center" style="background-color: tan"
+            img class="rounded-circle" alt="140x140" style="width: 140px; height: 140px;" src="images/sport2.jpg" data-holder-rendered="true"
+            pa style="font-size:28px; color:#031FC4"bBig Data Analytics/b/a/p
+            p class="text-center" style="color:#0064AC"b•	Temporal and Spatial Data Processing for Sport Analytics/b/p
+		 
+	p class="text-center" style="color:#0064AC"a href="ResearchThesis_MLBasedIdentification_UrbanFoodDesertDefect_DorothyZhao.pdf"b• Machine Learning Based Identification of Food Desert Defect in Urban Development/b/a/p
+
+ 	/div
+          div class="col-lg-4 col-md-6 col-sm-12 text-center" style="background-color: #CF9495"
+            img class="rounded-circle" alt="140x140" style="width: 140px; height: 140px;" src="images/optimization.jpg" data-holder-rendered="true"
+            pa style="font-size:28px; color:#031FC4"bOptimization/b/a/p
+			  a name="Publication"/a
+            p class="text-center" style="color:#0064AC"b•	Optimization of Big Data Processing and Parallel Processing System/b/p
+			 
+			 
+          /div
+        /div
+		/div
+		
+	/section
+a name="Publication"/a	  
+	section style="width:100%; padding-top:40px; padding-left:20px; padding-right:20px; background-color:honeydew; padding-bottom:20px" 
+	  a style="font-size:20px"bSELECTED RECENT PUBLICATIONS (LAST 3 YEARS ONLY)/b /a
+br
+	  ul
+		a style="font-size:15px"bPEER-REVIEWED JOURNAL PUBLICATIONS/b/abr
+	
+liSun Sunnie Chung and Andrew Yu, “Temporal and Spatial Data Processing for Basketball Game Analytics for Indentification of NBA On-Ball Screen Offensive Play”, in the he IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI), Vol 5: Issue 4, ISSN Print: 5611-8939, Dec 2020/li
+		p/p
+
+liSun Sunnie Chung and Andrew Yu, “Automatic Identification and Analysis of Basketball Plays: NBA On-Ball Screens”, in the International Journal of Networked and Distributed Computing (IJNDC), Vol 7: Issue 3, ISSN Print: 2211-7938, ISSN Online: 2211-7946, July 2019/li
+		p/p
+liSun Sunnie Chung and Danielle Aring, "Integrated Real-Time Big Data Stream Sentiment Analysis Service", in Journal of Data Analysis and Information Processing, Vol 6: No 2, ISSN Print: 2327-7211 ISSN Online: 2327-7203, April 2018/li	
+p/p
+liDorothy Yiyan Zhao and Sun Sunnie Chung, "Machine Learning Based Identification of Food Desert Defect in Urban Development", working progress to be submitted to Journal of Data Analysis and Information Processing, May 2021/lip/p
+	
+		
+
+
+		a style="font-size:15px"bPEER-REVIEWED CONFERENCE PROCEEDINGS /b/a
+	br
+	liMike D’Arcy and Sun Sunnie Chung, “Unsupervised Topic Model Based Text Network Construction for Learning Word Embeddings”, In the Proceedings of the 18th IEEE International Conference on Machine Learning and Applications, Boca Raton Florida, Dec 2019/li
+p/p
+		liJinjie Liu and Sun Sunnie Chung, “Unsupervised Automatic Feature Selection For Machine Learning Based Wi-fi Network Intrusion Detection”, In the Proceedings of the 18th IEEE International Conference on Machine Learning and Applications, Boca Raton Florida, Dec 2019/li
+		p/p
+liSun Sunnie Chung and Jinjie Liu, “Automatic Feature Extraction and Selection for Machine Learning Based Intrusion Detection”, in the Proceedings of The 16th IEEE International Conference on Advanced and Trusted Computing, Leicester UK, August, 2019/li
+p/p
+		liSunnie S. Chung and Andrew Yu, "Framework for Analysis and Prediction of NBA Basketball Plays", in the Proceedings of The 16th IEEE International Conference on Advanced and Trusted Computing, Leicester UK, August, 2019/li
+p/p
+		liAndrew Yu and Sun Sunnie Chung, "Automatic Identification and Analysis of Basketball Plays: NBA On-Ball Screens", in the Proceedings of the 4th IEEE International Conference on Big Data, Cloud Computing and Data Science Engineering, Honolulu, May 2019/li
+		p/p
+		
+		a style="font-size:15px"bPEER-REVIEWED BOOK CHAPTERS /b/a
+br
+		liAndrew Yu and Sun Sunnie Chung, "Automatic Identification and Analysis of Basketball Plays: NBA On-Ball Screens", Invited to be published in Springer's Studies in Computational Intelligence, May 2019/li
+		p/p
+		
+		a style="font-size:15px"bPEER-REVIEWED/PROFESSIONAL WORKSHOP/SYMPOSIUM PRESENTATIONS /b/a
+br	
+	liSunnie S. Chung  and Danielle Aring, “Integrated Real-time Social Media Sentiment Analysis using a Big Data Analytic Ecosystem”, Presentation in the Workshop on Big Data and Hadoop Distributed File System, Cleveland OH, Nov 2017/li
+		liPan Li and Sunnie S Chung, “Federated EXperimental Cyber Infrastructure Testbed (EXCIT): Industry and Academia Collaboration on IoT with Case Western Reserve University. Presentation and Research Demo in IoT Collaborative Symposium, May 2017/li
+		
+		p/p
+	
+		a style="font-size:15px"bINVITED TALKS /b/a
+br
+		liInvited Talk to IEEE Women Engineering Society Invited Talks on Opinion Analysis of Social Media Data, Jan 2018/li
+		liInvited Talk to IEEE Computing Society Invited Talk on Big Data Analytics, August 2017/li
+		p/p
+		
+		a style="font-size:15px"bRESEARCH POSTERS/DEMO /b/a
+br			
+		liJinjie Liu and Sun Sunnie Chung, “Deep Feature Extraction and Selection for Network Intrusion Detection”, in Research Day of Engineering College, Oct 2018/li
+		liMike D’Arcy, Utkarsh Patel, and Sunnie S Chung on “Natural Language Processing with Machine Learning for Semantic Document Search Engine” in Research Day of Engineering College, Oct 2017/li
+		liSunnie S. Chung and Danielle Aring, “Integrated Real-time Social Media Sentiment Analysis using a Big Data Analytic Ecosystem” in Research Day of Engineering College, Oct 2017/li
+		p/p
+		
+		a style="font-size:15px"bUNDERGRADUATE SUMMER RESEARCH /b/a	
+br			
+		liMike D’Arcy, Utkarsh Patel on “Semantic Document Search with Machine Learning” Summer 2017 Funded by CSU/li
+		liMike D’Arcy on “Semantic Document Search with Machine Learning” Summer 2018 Funded by CSU/li
+		p/p
+		
+		
+
+		a style="font-size:15px"bRESEARCH GRANTS / PROPOSALS (LAST 4 YEARS ONLY) /b/a
+br
+	li Brought the Initial Funding Approval of the Establishment of $7 million (over six years) for Internet of Things Collaborative (IOTC) between CSU and Case Western Reserve University funded by the Cleveland Foundation /li		
+	liIoT Collaborative Pilot Grant Proposal titled “Protect Privacy in a Distributed Learning Platform with a Natural Language Processing Example.” in Collaboration with Ming-Chun Huang (CWRU): Awarded on Dec 2018 in the amount of $20,000.00/li
+		liNSF 17-570 Computer and Network Systems (CNS) Grant Proposal titled “Democratized Computing System Design for Privacy-Sensitive Cloud/Edge Environment” Submitted on Nov 2018 /li	
+		liInitial Seed Grant Proposal to Cleveland Foundation for Data Analytics and Cyber Security, Sunnie Chung, Dec 2015 under acknowledgement of formal CSU President Berkman and Executive Resident Dr. Julien Earl (Now Developed to IoT Collaborative CWRU-CSU Lead by Dean Sridhar)/li	
+		liIoT Collaborative Grant Award: Federated EXperimental Cyber Infrastructure Testbed (EXCIT): Industry and Academia Collaboration, Pan Li (CWRU), Sunnie Chung, and Wenbing Zhao (CSU). Award $20,000 on May 2017  /li	
+		liFRD-IOT Proposal on Cyber Security and Privacy in IoT Infrastructures on Public Cloud, Sept 2017/li
+		liGrant Proposal; Sunnie Chung(CSU), Pan Li (Case) “Cyber Security and Privacy of IoT on Public Cloud with Encrypted Database Querying”, to Cleveland Foundation, July 2017/li	
+		liNSF Proposal Intension, Sunnie Chung, Douglas Meil (IBM) and Brian Durkin (Progressive): "Intent of Submission of Proposal for Award Abstract #1550320 in BD Hubs: MIDWEST: SEEDCorn"/li
+		p/p
+		
+		a style="font-size:15px"bTEACHING GRANTS / PROPOSALS (LAST 4 YEARS ONLY) /b/a	
+br		
+		liUniversity Tech Support Award for Big Data Teaching Lab in Computer Science: Awarded in the amount of $12,648, April 2018/li	
+		liBuilt Big Data Analytics Research Lab (FH305) in EECS Dept, College of Engineering, Sept 2018/li
+		
+		liGrant Proposal on Cross-Disciplinary Course Development for Big Data Analytics Systems in Cloud based IoT”, Sunnie Chung (CSU), Pan Li, (Case Western Reserve University) to Cleveland Foundation, July 2017/li	
+		p/p
+		
+		a style="font-size:15px"b AWARD WINNING SENIOR RESEARCH PROJECTS/b/a	
+br			
+		lia href="Cerebro Poster v3NickWhite.pdf" Cerebro: Real Time Security Service  (The First Prize Winner of 2016 Senior Design in College of Engineering) /a by Nick White, et al /li
+		lia href="Senior Design Posters_ NLP Team.pdf" Semantic Document Search with Machine Learning: Sharesci (The Best CS Senior Project Winner of 2018) /a by Mike D'Arcy and Utkarsh Patel/li
+		lia href="UrbanRealEstateSeniorDesign_poster.pdf" Urban Real Estate Analytic Service (The Candidate of Best Senior Project 2019 in College of Engineering) /a by Joel Stell et. al./li
+	lia href="sharesciwiki_poster.pdf" : Document Search Engine for Collaborative Content Management /a by Nick McCoy, Benjamin Mckinsey, et al /li
+
+	/ul
+
+		a style="font-size:20px"bSelective Publications Before 2015/b/a
+		ul
+		a style="font-size:20px"bResearch  Publications/b/a
+br		
+
+liSun S. Chung, D. Chung, “Fault Detection and Diagnostics using Data Mining”, in the Proceeding of 8th WCEAM, International Conference on Engineering Asset Management, HongKong China, Oct 2013./li
+liSun S. Chung, D. Chung, “INTEGRATED ASSET MANAGEMENT WITH CUSTOMIZED DATA WAREHOUSE”, 7th WCEAM, International Conference on Engineering Asset Management, Deajeon South Korea, Oct 2012./li
+li White Paper on Completed Kelly Benchmark Performance Optimization of Secondary Join Index Processing for Temporal Tables in Temporal Database in in MPP Parallel Data Warehouse (PDW) System, Optimizer RD, DBS, Teradata Corp, El Segundo/San Diego, 2011./li
+li Survey Paper on Research, Proposal and Presentation on Optimization of Correlated Subquery Processing in Major DBMS Industry, Teradata Corp. El Segundo/San Diego, 2010./li
+li White Paper on Research Project: Building SQL-Map Reduce for Big Data Processing in in MPP Parallel Data Warehouse (PDW) System, Teradata Corp. El Segundo/San Diego, 2010./li
+li White Paper on Building Temporal Database in in MPP Parallel Data Warehouse (PDW) System, Teradata Corp. El Segundo/San Diego, 2009./li
+li White Paper on Join Index Processing for Columnar Partitioning Database in MPP Parallel Data Warehouse (PDW) System, Teradata Corp. El Segundo/San Diego, 2009./li
+li Invention Disclosure Record (IDR) for Teradata on Extension of Null Equality Optimization In the Query Rewrite System, 2009 – in the process of  Patent under Teradata Corp, El Segundo/San Diego, 2009./li
+li White Paper on Predicate Simplification Optimization for Query Rewrite Subsystem in Data Warehouse System, , Teradata, NCR, El Segundo/San Diego, 2008/li
+
+li White Paper on Mark_Null_Equal Query Optimization in Query Rewrite Subsystem in Data Warehouse System, , Teradata, NCR, El Segundo/San Diego, 2007/li
+liiProcessing Aggregate Queries over Encrypted Databases/ibr
+Sun S. Chung, Gultekin Ozsoyoglu, Accepted to i 2nd International IEEE Workshop on Privacy Data Management-Joint with ICDE 2006, /i April 2006.br
+  /li
+
+liiAnti-Tamper Databases - Part I: Querying Encrypted Databases/ibr
+Sun Chung, David Singer, and Gultekin Ozsoyoglu, i VLDB Journal On Privacy Preserving Data Management, /i September 2005.br
+  /li
+liiQuerying Encrypted Databases - Part II: Processing Aggregate Queries/ibr
+Sun Chung and Gultekin Ozsoyoglu, iJournal Of Privacy Technology, /i 2005.br
+  /li
+li iAnti-Tamper Database: Querying Encrypted Databases - Extended Work/ibr
+Gultekin Ozsoyoglu, David Singer, and Sun Chung, in Book Chapter of iResearch Directions in Data and Application Security XVIII, /i Sabrina De Capitani di Vimercati et al., (eds), Kluwer Academic Publisher, Prague, Boston, 2004.br
+  /li
+liiAnti-Tamper Database: Querying Encrypted Databases/ibr
+Gultekin Ozsoyoglu, David Singer, and Sun Chung, in Proceedings of i17th IFIP 11.3 International Conference on Data and Application Security,/i Estate Park, Colorado, U.S.A., August, 2003br
+  /li
+a style="font-size:20px"bPh.D. Thesis/b/a		
+	liiDatabase Security: Anti-Tamper Databases: Querying Encrypted Databases/ibr
+Sun S. Chung, i Department of EECS, Case Western Reserve University,/i September, 2006.br	/li
+
+a name="Teaching"/a
+/ul
+		
+		
+		
+		/section
+	
+	 section style="background-color:white; margin-top:auto; padding-top:20px; padding-bottom:30px"
+	   
+div class="container"
+    div class="row"
+          div class="col-12 mb-2 text-center"
+            h2Teaching/h2
+          /div
+        /div
+        div class="row"
+          div class="col-sm-6 col-lg-4"
+            h3Advanced Topics in Database Systems for Big Data /h3
+			 p a href="http://cis.csuohio.edu/~sschung/cis611/CIS611.html" style="color:black" CIS 611/CIS711 Enterprise Database Systems and Data Warehouse with OLAP /a/p
+		    p a href="http://cis.csuohio.edu/~sschung/cis612/CIS612.html" style="color:black"CIS 612/CIS712 Big Data and Parallel Data Processing Systems /a/p
+            pa class="btn btn-link" href="index_old_teaching.html"View details »/a/p
+          /div
+		div class="col-sm-6 col-lg-4"
+            h3Big Data Analytics with Machine Learning/h3
+			  pa href="http://cis.csuohio.edu/~sschung/CIS660/CIS660.html" style="color:black" CIS 660/CIS760 Data Mining (Data Analytics and Machine Learning) /a/p
+			  p a  style="color:black"CIS 695 Special Topics on Data Analytics and Big Data Processing/a/p
+			pa href="http://cis.csuohio.edu/~sschung/CIS601/CIS601.html" style="color:black"CIS 601 Graduate Seminar in Computer Science/a /p
+            pa class="btn btn-link" href="index_old_teaching.html"View details »/a/p
+          /div
+          div class="col-sm-6 col-lg-4"
+            h3Enterprise Databases/h3
+            pa href="http://cis.csuohio.edu/~sschung/IST734/IST734.html" style="color:black" IST 734 Enterprise Databases /a/p
+            pa class="btn btn-link" href="index_old_teaching.html"View details »/a/p
+          /div
+          
+          div class="col-sm-6 col-lg-4"
+            h3Databases/h3
+			  pa href="http://cis.csuohio.edu/~sschung/cis430/CIS430.html" style="color:black"CIS 430/530 Database Systems and Processing/a/p
+			  pa href="http://cis.csuohio.edu/~sschung/CIS593/CIS593.html" style="color:black" CIS 493/CIS 593 Big Data /a/p
+			  pa href="http://cis.csuohio.edu/~sschung/IST331/IST331.html" style="color:black"IST 331 Modern Database Design and Implementation/a/p
+            pa class="btn btn-link" href="index_old_teaching.html"View details »/a/p
+          /div
+          div class="col-sm-6 col-lg-4"
+            h3Other Courses/h3
+			  pa href="http://cis.csuohio.edu/~sschung/CIS408/CIS408.html" style="color:black" CIS 408 Internet Computing (Web Application) /a/p
+			  p a href="http://cis.csuohio.edu/~sschung/CIS465/CIS465.html" style="color:black"CIS 465 Multimedia/a/p
+			  pa href="http://cis.csuohio.edu/~sschung/CIS433/CIS433.html" style="color:black"CIS 433 System Analysis Methods/a /p
+            pa class="btn btn-link" href="index_old_teaching.html"View details »/a/p
+          /div
+          div class="col-sm-6 col-lg-4"
+            h3Introduction/h3
+			  
+		    p a href="http://cis.csuohio.edu/~sschung/CIS260/CIS260.html" style="color:black"CIS 260/500 Introduction to Programming in Java/a/p
+			  pa href="http://cis.csuohio.edu/~sschung/ESC120/ESC120.html" style="color:black"ESC 120 Introduction To Engineering Design/a/p
+			  pa href="http://cis.csuohio.edu/~sschung/ESC151/ESC151.html" style="color:black"ESC 151 C Programming/a /p
+			 a name="People"/a
+            pa class="btn btn-link" href="index_old_teaching.html"View details »/a/p
+			 
+          /div
+        /div
+      /div
+    /section
+	  
+  section class="jumbotron" style="background-color:gray; margin-top:auto; margin-bottom:auto;" 
+	  div class="container"
+		div class="row"
+          	div class="col-sm-12 mt-4 mb-2 text-center"
+            h2People/h2
+          /div
+	/div
+
+
+
+
+
+
+
+      div class="row"
+        div class="col-12 col-md-8 mx-auto"
+          div class="jumbotron"
+a href="https://engineering.csuohio.edu/sites/default/files/200486_Washkewicz_Magazine_2020_2021.pdf"bSee the Article (in Page 3) about Big Data Lab and Dr. Sunnie Chung !/b/abr
+br
+diva href="FacultyBio_SunnieChung.pdf"bFaculty: Dr. Sunnie Sun Chung /b/a/div
+                h3 Ph.D. Students /h3
+
+•	Yixi Luo  br
+•	Asanka Kavinda Mananayaka br
+•	Amro H. Handousa br
+
+br
+
+ h3 Master Thesis Students /h3
+•	Sean Riehl (MS), Thesis Title: “Property Recommendation System with Geospatial Data Analytics and Natural Language Processing for Urban Land Use”br
+
+•	Yiyuan Dorothy Zhao (Honor Thesis), Thesis Title: “Machine Learning Based Identification of Food Desert Defect in Urban Development” br
+
+•	Labhesh Popoli (MS), Thesis Title: “An Attention Based Deep Neural Network for Visual Question Answering System”br
+
+•	Danielle Aring (MS), thesis title: “Integrated Real-time Social Media Sentiment Analysis using a Big Data Analytic Ecosystem”br
+
+•	Andrew Yu (MS), thesis title: "Automatic Identification and Analysis of Basketball Plays: NBA On-Ball Screens"br
+
+br
+h3 Master Project Students (During Last 5 Years Only) /h3
+40 Master Research Project Students in Independent Study br
+br
+h3 Senior Project Students (During Last 5 Years Only) /h3
+
+20 Senior Students in the 6 Prize Winning Senior Project Teams br
+15 Senior Students Currently in the 4 Senior Research Projects This Year br
+br  
+h3 Post Graduate Student Success from Big Data Lab (During Last 5 Years Only)/h3
+Selective List of the Prestigious Industry and Academia Where Our Big Data Lab Students Landed After Graduation  br
+br
+li Mr. Michael D’Arcy (in Ph.D at North Western University) br
+li Mr. Utkarsh Patel (in Master at University of Southern California (USC)) br
+li Mr. Nick White (FaceBook) br
+li Ms. Suhua Wei (Amazon) br
+li Mr. Durga P Dasepalli (Amazon) br
+li Mr. Srinivas Tejomurthula (Oracle) br
+li Ms. Danielle Aring (First Energy) She was the First CSU Graduated Data Scientist. br
+li Mr. Andrew Yu (now teaching at Penn State University Erie, The Behrend College)br
+br
+List Of Prestigious Local Industry Where Countless Big Data Graduates Are Currently With br
+br   
+li Cleveland Clinicbr
+li Rockwell br
+li Progressive br
+li Sherwin Williams br
+li Parker Hannifin br
+li Metro Healthbr
+li Medical Mutualbr
+li Hyland Softwarebr
+li First Energybr
+li IBM Health br
+li PNC Bank br
+li Key Bank br
+li JP Morgan Chase Bank br
+li Young  Earnst Accounting Firm br
+li Rock  Roll Hall of Fame br
+li So Many More in this List...br
+
+ 
+
+
+  
+              /div
+
+/div
+
+/div
+
+
+
+
+
+        
+        div class="row"
+          
+          div class="col-sm-6 col-lg-6" align="center"
+            blockquote class="blockquote"
+			  img class="img-thumbnail" alt="140x140" style="width: 400px; height: 340px;" scale="aspect" src="images/BigdataLabPic1.jpg" data-holder-rendered="true"
+			  p class="mb-0"Big Data Analytic Research Members 2016 /p
+            /blockquote
+          /div
+div class="col-sm-6 col-lg-6" align="center"
+            blockquote class="blockquote"
+			  img class="img-thumbnail" alt="140x140" style="width: 400px; height: 340px;" scale="aspect" src="images/TextAnalysisNLPResearchTeam.jpg" data-holder-rendered="true"
+			  p class="mb-0" Machine Learing with NLP for Text Analysis Research Team 2018 /p
+            /blockquote
+          /divdiv class="col-sm-6 col-lg-6" align="center"
+            blockquote class="blockquote"
+			  img class="img-thumbnail" alt="140x140" style="width: 400px; height: 340px;" scale="aspect" src="images/TextAnalysisNLPResearchTeam2.jpg" data-holder-rendered="true"
+			  p class="mb-0" Big Data Processing and Machine Learning for Text Analysis: Senior Design Team 2018  /p
+            /blockquote
+          /div
+          div class="col-sm-6 col-lg-6" align="center"
+            blockquote class="blockquote"
+			  img class="img-thumbnail" alt="140x140" style="width: 400px; height: 340px;" scale="aspect" src="images/AIBigDataLab.jpg" data-holder-rendered="true"
+			  p class="mb-0"Big Data Analytic Research Members 2019/p
+            /blockquote
+          /div
+	div class="col-sm-6 col-lg-6" align="center"
+            blockquote class="blockquote"
+			  img class="img-thumbnail"  alt="140x140" style="width: 400px; height: 340px;" scale="aspect" src="images/UrbanRealEstateTeam.jpg" data-holder-rendered="true"
+			  p class="mb-0" Urban Real Estate Project Team: Senior Design Team 2019 /p
+            /blockquote
+          /div
+          div class="col-sm-6 col-lg-6" align="center"
+            blockquote class="blockquote"
+			  img class="img-thumbnail" alt="140x140" style="width: 400px; height: 340px;" scale="aspect" src="images/Andrew_BCD2019.jpg" data-holder-rendered="true"
+				
+			  p class="mb-0" In the IEEE International Conference 2019 on Big Data at Hawaii /p
+				
+            /blockquote
+			
+          /div
+  div class="col-sm-6 col-lg-6" align="center"
+            blockquote class="blockquote"
+			  img class="img-thumbnail"  alt="140x140" style="width: 400px; height: 340px;" scale="aspect" src="images/WorkshopBigdataLab.jpg" data-holder-rendered="true"
+				
+			  p class="mb-0"Big Data Lab Workshop 2017/p
+				
+            /blockquote
+          /div
+
+div class="col-sm-6 col-lg-6" align="center"
+            blockquote class="blockquote"
+			  img class="img-thumbnail"  alt="140x140" style="width: 400px; height: 340px;" scale="aspect" src="images/BigDataWorkshop2019CSU.jpg" data-holder-rendered="true"
+				
+			  p class="mb-0"Big Data Lab Workshop 2019/p
+				
+            /blockquote
+/div	
+          /div
+
+        
+      /div
+	  /section
+		
+
+  
+  div class="container"
+      div class="row"
+        div class="col-12 col-md-8 mx-auto"
+          div class="jumbotron"
+            div class="row text-center"
+              div class="text-center col-12"
+                h2Send Email to Find Out How to Start Learning and Research Big Data Analytics /h2
+              /div
+              div class="text-center col-12"
+                !-- CONTACT FORM https://github.com/jonmbake/bootstrap3-contact-form --
+                form id="feedbackForm" class="text-center"
+                  div class="form-group"
+                    label for="name"Name/label
+                    input type="text" class="form-control" id="name" name="name" placeholder="Name" aria-describedby="nameHelp"
+                    span id="nameHelp" class="form-text text-muted" style="display: none;"Please enter your name./span
+                  /div
+                  div class="form-group"
+                    label for="email"E-Mail/label
+                    input type="email" class="form-control" id="email" name="email" placeholder="Email Address" aria-describedby="emailHelp"
+                    span id="emailHelp" class="form-text text-muted" style="display: none;"Please enter a valid e-mail address./span
+                  /div
+                  div class="form-group"
+                    label for="message"Message/label
+                    textarea rows="10" cols="100" class="form-control" id="message" name="message" placeholder="Message" aria-describedby="messageHelp"/textarea
+                    span id="messageHelp" class="form-text text-muted" style="display: none;"Please enter a message./span
+                  /div
+                  button type="submit" id="feedbackSubmit" class="btn btn-primary btn-lg" Send/button
+                /form
+              /div
+            /div
+          /div
+        /div
+      /div
+    /div
+    footer class="text-center"
+      div class="container"
+        div class="row"
+          div class="col-12"
+            pCSUOHIO/p
+          /div
+        /div
+      /div
+    /footer
+    !-- jQuery (necessary for Bootstrap's JavaScript plugins) -- 
+    script src="js/jquery-3.2.1.min.js"/script 
+    !-- Include all compiled plugins (below), or include individual files as needed -- 
+    script src="js/popper.min.js"/script 
+    script src="js/bootstrap-4.0.0.js"/script
+  /body
+/html
